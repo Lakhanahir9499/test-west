@@ -1,20 +1,5 @@
 [
   {
-    "id": "1755073064375",
-    "name": "ddc",
-    "description": "dscds",
-    "price": 98.91,
-    "original_price": 9999,
-    "shipping_charge": 49,
-    "image_url": "https://raw.githubusercontent.com/lakhanahir9499/test-west/main/products/1755073040760-photo_6115908274613242505_y.jpg",
-    "category": "ddd",
-    "is_featured": false,
-    "is_active": true,
-    "stock_quantity": 102,
-    "created_at": "2025-08-13T08:17:44.375Z",
-    "updated_at": "2025-08-13T08:17:44.375Z"
-  },
-  {
     "id": "1755070743272",
     "name": "JHAT",
     "description": "",
