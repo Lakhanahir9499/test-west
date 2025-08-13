@@ -9,5 +9,16 @@
     "is_active": true,
     "created_at": "2025-08-13T08:23:17.446Z",
     "updated_at": "2025-08-13T08:23:17.446Z"
+  },
+  {
+    "id": "1755079988236",
+    "title": "Test",
+    "description": "Test",
+    "image_url": "https://raw.githubusercontent.com/lakhanahir9499/test-west/main/slides/1755079981375-1000658388.png",
+    "link_url": "",
+    "order_index": 1,
+    "is_active": true,
+    "created_at": "2025-08-13T10:13:08.236Z",
+    "updated_at": "2025-08-13T10:13:08.236Z"
   }
 ]
