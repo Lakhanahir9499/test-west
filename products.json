@@ -1,20 +1,5 @@
 [
   {
-    "id": "1755070743272",
-    "name": "JHAT",
-    "description": "",
-    "price": 299,
-    "image_url": "https://raw.githubusercontent.com/lakhanahir9499/test-west/main/products/1755070713571-1000043634.jpg",
-    "category": "Snecs ",
-    "is_featured": true,
-    "is_active": true,
-    "stock_quantity": 1,
-    "created_at": "2025-08-13T07:39:03.272Z",
-    "updated_at": "2025-08-13T08:20:44.250Z",
-    "original_price": 85278578,
-    "shipping_charge": 742
-  },
-  {
     "id": "1755069717892",
     "name": "fdc",
     "description": "vfdvdc",
