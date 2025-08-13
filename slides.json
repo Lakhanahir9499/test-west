@@ -9,5 +9,16 @@
     "is_active": true,
     "created_at": "2025-08-13T07:17:17.694Z",
     "updated_at": "2025-08-13T07:17:17.694Z"
+  },
+  {
+    "id": "1755072981190",
+    "title": "dvfdv",
+    "description": "cdcd",
+    "image_url": "https://raw.githubusercontent.com/lakhanahir9499/test-west/main/slides/1755072977627-photo_6115908274613242505_y.jpg",
+    "link_url": "",
+    "order_index": 1,
+    "is_active": true,
+    "created_at": "2025-08-13T08:16:21.190Z",
+    "updated_at": "2025-08-13T08:16:21.190Z"
   }
 ]
