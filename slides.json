@@ -9,16 +9,5 @@
     "is_active": true,
     "created_at": "2025-08-13T07:17:17.694Z",
     "updated_at": "2025-08-13T07:17:17.694Z"
-  },
-  {
-    "id": "1755069471395",
-    "title": "tuyy",
-    "description": "5r65r6r",
-    "image_url": "https://raw.githubusercontent.com/lakhanahir9499/test-west/main/slides/1755069469183-photo_6100224372603209754_y.jpg",
-    "link_url": "",
-    "order_index": 1,
-    "is_active": true,
-    "created_at": "2025-08-13T07:17:51.395Z",
-    "updated_at": "2025-08-13T07:17:51.395Z"
   }
 ]
