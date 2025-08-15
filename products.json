@@ -10,9 +10,9 @@
     "category": "Xyz",
     "is_featured": true,
     "is_active": true,
-    "stock_quantity": 0,
+    "stock_quantity": 100,
     "created_at": "2025-08-14T17:49:16.832Z",
-    "updated_at": "2025-08-15T05:15:23.557Z"
+    "updated_at": "2025-08-15T07:09:03.796Z"
   },
   {
     "id": "1755074531511",
