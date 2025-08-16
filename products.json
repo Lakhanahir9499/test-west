@@ -6,13 +6,13 @@
     "price": 299,
     "original_price": 599,
     "shipping_charge": 100,
-    "image_url": "",
+    "image_url": "https://photos.app.goo.gl/kNDRDZ8Pek8QkGZFA",
     "category": "Sneks",
     "is_featured": true,
     "is_active": true,
     "stock_quantity": 100,
     "created_at": "2025-08-14T17:49:16.832Z",
-    "updated_at": "2025-08-16T06:02:24.949Z"
+    "updated_at": "2025-08-16T06:04:37.339Z"
   },
   {
     "id": "1755074531511",
