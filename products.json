@@ -15,21 +15,6 @@
     "updated_at": "2025-08-16T06:49:10.961Z"
   },
   {
-    "id": "1755193756832",
-    "name": "MATHRI",
-    "description": "",
-    "price": 299,
-    "original_price": 599,
-    "shipping_charge": 100,
-    "image_url": "https://photos.app.goo.gl/kNDRDZ8Pek8QkGZFA",
-    "category": "Sneks",
-    "is_featured": true,
-    "is_active": true,
-    "stock_quantity": 100,
-    "created_at": "2025-08-14T17:49:16.832Z",
-    "updated_at": "2025-08-16T06:04:37.339Z"
-  },
-  {
     "id": "1755074531511",
     "name": "BISKIT",
     "description": "gfdhgd",
