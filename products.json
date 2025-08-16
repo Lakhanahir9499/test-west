@@ -1,5 +1,20 @@
 [
   {
+    "id": "1755326950961",
+    "name": "Gwhw",
+    "description": "Hshsjs",
+    "price": 1,
+    "original_price": 100,
+    "shipping_charge": 0,
+    "image_url": "https://raw.githubusercontent.com/lakhanahir9499/test-west/main/products/1755326942450-1000658456.jpg",
+    "category": "Xtc",
+    "is_featured": true,
+    "is_active": true,
+    "stock_quantity": 100,
+    "created_at": "2025-08-16T06:49:10.961Z",
+    "updated_at": "2025-08-16T06:49:10.961Z"
+  },
+  {
     "id": "1755193756832",
     "name": "MATHRI",
     "description": "",
