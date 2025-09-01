@@ -10,10 +10,10 @@
     "category": "Snacks",
     "is_featured": true,
     "is_active": true,
-    "stock_quantity": 80,
+    "stock_quantity": 0,
     "link": "",
     "created_at": "2025-09-01T06:22:29.634Z",
-    "updated_at": "2025-09-01T06:22:29.634Z"
+    "updated_at": "2025-09-01T06:35:10.881Z"
   },
   {
     "id": "1756449761101",
